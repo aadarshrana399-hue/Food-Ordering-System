@@ -180,11 +180,4 @@ Detailed steps and expected results are in [`docs/PROJECT_OVERVIEW.md`](docs/PRO
 - Unit tests and a Makefile
 - Graphical interface
 
-## Author Details
 
-- **Name:** `<Your Name>`
-- **UID:** `<Your UID>`
-- **Course:** BCA Data Science (Hons), Semester 3
-- **University:** `<Your University>`
-- **Submitted to:** `<Faculty Name>`
-- **GitHub:** `<Your GitHub Profile / Repository Link>`
